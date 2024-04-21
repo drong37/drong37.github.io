@@ -13,8 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 0.5em;
 
 /* system typefaces */
-$serif                      : "Trebuchet MS", "Microsoft YaHei", serif;
-$sans-serif                 : Georgia,  "Source Han Sans", sans-serif;
+$serif                      : Georgia, Times, serif;
+$sans-serif                 : Georgia, "Trebuchet MS", "Microsoft YaHei", "Source Han Sans", serif, sans-serif;
 // $sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
 // $sans-serif                 : Georgia, serif, sans-serif;
 

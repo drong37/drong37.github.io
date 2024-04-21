@@ -7,7 +7,7 @@
   
   Zhenlu Shao*, **<font color="blue">Rong Deng</font>**, Guofu Zhang, Yujiao Li, Xiaofei Tang, Wei Zhang
   
-  **Keywors:**
+  **Keywords:**
   - Coal gangue pile
   - UAV
   - Remote sensing
@@ -23,7 +23,7 @@
   
   Zhenlu Shao*, Yuntao Liang, Fuchao Tian, Shuanglin Song, **<font color="blue">Rong Deng</font>**
   
-  **Keywors:**
+  **Keywords:**
   - 3D model
   - Coal fires
   - Remote sensing
@@ -38,7 +38,7 @@
   
   Zhenlu Shao, **<font color="blue">Rong Deng</font>**, Tao Zhou, Fei Cao, Huahai Sun, Long Chen, Yu Yuan & Xiaoxing Zhong*
   
-  **Keywors:**
+  **Keywords:**
   - Coal fires
   - Self-potential
   - 3D inversion

@@ -1,4 +1,3 @@
-
 # Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Case Studies in Thermal Engineering

@@ -14,3 +14,6 @@ main:
 
  - title: "<b>News</b>"
     url: "/#news"
+    
+ - title: "<b>Visitor Map</b>"
+    url: "/#visitor-map"

@@ -1,6 +1,46 @@
-# 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+
+# News
+
+- *2024.04*: 🎉 test
+
+<div markdown="1" id="more-content" style="display: none;"> 
+
+- *2024.04*: 🎉 test
+</div>
+
+<button id="toggle-button" onclick="toggleVisibility()">Older News</button>
+
+<style>
+/* 按钮样式 */
+#toggle-button {
+    background-color: #FFFFFF; /*背景 */
+    color: #000000; /* 文字颜色 */
+    padding: 8px 16px; /* 内边距 */
+    border: soli, #000000; /* 边框 */
+    border-radius: 4px; /* 圆角 */
+    cursor: pointer; /* 鼠标指针样式 */
+    font-size: 14px; /* 字体大小 */
+    transition: background-color 0.3s; /* 背景色过渡效果 */
+}
+
+/* 悬停效果 */
+#toggle-button:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 阴影 *
+    /* background-color: #0056b3; /* 深蓝色 */ */
+}
+</style>
+
+<script>
+function toggleVisibility() {
+    var content = document.getElementById('more-content');
+    var button = document.getElementById('toggle-button');
+    if (content.style.display === 'none') {
+        content.style.display = 'block';
+        button.innerText = 'Older News';
+    } else {
+        content.style.display = 'none';
+        button.innerText = 'Older News';
+    }
+}
+</script>
+

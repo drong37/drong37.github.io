@@ -61,7 +61,7 @@
     </div>
   </div>
   
-  <button id="toggle-button" onclick="toggleVisibility()">Older News</button>
+  <button id="toggle-button" onclick="toggleVisibility()">Read more</button>
   
   <style>
   /* 按钮样式 */
@@ -89,10 +89,10 @@
       var button = document.getElementById('toggle-button');
       if (content.style.display === 'none') {
           content.style.display = 'block';
-          button.innerText = 'Older News';
+          button.innerText = 'Show less';
       } else {
           content.style.display = 'none';
-          button.innerText = 'Older News';
+          button.innerText = 'Read more';
       }
   }
   </script>

@@ -8,7 +8,7 @@
 - *2024.04*: 🎉 test
 </div>
 
-<button id="toggle-button" onclick="toggleVisibility()">Older News</button>
+<button id="toggle-button" onclick="toggleVisibility()">Older news</button>
 
 <style>
 /* 按钮样式 */
@@ -36,10 +36,10 @@ function toggleVisibility() {
     var button = document.getElementById('toggle-button');
     if (content.style.display === 'none') {
         content.style.display = 'block';
-        button.innerText = 'Older News';
+        button.innerText = 'Older news';
     } else {
         content.style.display = 'none';
-        button.innerText = 'Older News';
+        button.innerText = 'Older news';
     }
 }
 </script>

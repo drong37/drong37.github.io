@@ -61,11 +61,11 @@
     </div>
   </div>
   
-  <button id="toggle-button" onclick="toggleVisibility()">Read more</button>
+  <button id="toggle-button-1" onclick="toggleVisibility()">Read more</button>
   
   <style>
   /* 按钮样式 */
-  #toggle-button {
+  #toggle-button-1 {
       background-color: #FFFFFF; /*背景 */
       color: #000000; /* 文字颜色 */
       padding: 8px 16px; /* 内边距 */
@@ -77,7 +77,7 @@
   }
   
   /* 悬停效果 */
-  #toggle-button:hover {
+  #toggle-button-1:hover {
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 阴影 *
       /* background-color: #0056b3; /* 深蓝色 */ */
   }

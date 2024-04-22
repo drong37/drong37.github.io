@@ -61,7 +61,7 @@
     </div>
   </div>
   
-  <button id="toggle-button-1" onclick="toggleVisibility()">Read more</button>
+  <button id="toggle-button-1" onclick="toggleVisibility1()">Read more</button>
   
   <style>
   /* 按钮样式 */
@@ -84,7 +84,7 @@
   </style>
   
   <script>
-  function toggleVisibility() {
+  function toggleVisibility1() {
       var content = document.getElementById('more-content-1');
       var button = document.getElementById('toggle-button-1');
       if (content.style.display === 'none') {

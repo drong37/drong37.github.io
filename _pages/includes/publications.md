@@ -49,6 +49,7 @@
   </div>
 
   <div markdown="1" id="more-content" style="display: none;"> 
+  
     <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Remote Sensing</div><img src='images/pub1.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
   

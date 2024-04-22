@@ -1,11 +1,11 @@
 
 # News
 
-- *2024.04*: 🎉 test
+[//]: (- *2024.04*: 🎉 test)
 
 <div markdown="1" id="more-content-2" style="display: none;"> 
 
-- *2024.04*: 🎉 test
+[//]: (- *2024.04*: 🎉 test)
 </div>
 
 <button id="toggle-button-2" onclick="toggleVisibility2()">Older news</button>

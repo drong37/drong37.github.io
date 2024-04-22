@@ -48,7 +48,7 @@
   </div>
   </div>
 
-  <div markdown="1" id="more-content" style="display: none;"> 
+  <div markdown="1" id="more-content-1" style="display: none;"> 
   
     <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Remote Sensing</div><img src='images/pub1.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
@@ -85,8 +85,8 @@
   
   <script>
   function toggleVisibility() {
-      var content = document.getElementById('more-content');
-      var button = document.getElementById('toggle-button');
+      var content = document.getElementById('more-content-1');
+      var button = document.getElementById('toggle-button-1');
       if (content.style.display === 'none') {
           content.style.display = 'block';
           button.innerText = 'Show less';

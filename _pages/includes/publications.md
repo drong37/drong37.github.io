@@ -1,6 +1,6 @@
 # Publications
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Case Studies in Thermal Engineering
-  </div><img src='' alt="sym" width="100%"></div></div>
+  </div></div></div>
   <div class='paper-box-text' markdown="1">
   
   3D aerial thermal mapping of smoldering coal gangue dump based on RGB-T image fusion and detail enhancement	(Under review)

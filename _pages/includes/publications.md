@@ -1,13 +1,7 @@
 # Publications
+## Academic Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Case Studies in Thermal Engineering
-</div></div></div>
-<div class='paper-box-text' markdown="1">
-
-3D aerial thermal mapping of smoldering coal gangue dump based on RGB-T image fusion and detail enhancement	(Under review)
-
-</div>
-</div>
+``Patents`` 3D aerial thermal mapping of smoldering coal gangue dump based on RGB-T image fusion and detail enhancement	(Under review)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Case Studies in Thermal Engineering
 </div><img src='images/pub4.png' alt="sym" width="100%"></div></div>
@@ -78,34 +72,43 @@ Zhenlu Shao, Yizhou Li, **<font color="blue">Rong Deng</font>**, Deming Wang*, X
 <style>
 /* 按钮样式 */
 #toggle-button-1 {
-    background-color: #FFFFFF; /*背景 */
-    color: #000000; /* 文字颜色 */
-    padding: 8px 16px; /* 内边距 */
-    border: soli, #000000; /* 边框 */
-    border-radius: 4px; /* 圆角 */
-    cursor: pointer; /* 鼠标指针样式 */
-    font-size: 14px; /* 字体大小 */
-    transition: background-color 0.3s; /* 背景色过渡效果 */
-    margin-top: 10px; /* 上边距，往下移动按钮 */
+background-color: #FFFFFF; /*背景 */
+color: #000000; /* 文字颜色 */
+padding: 8px 16px; /* 内边距 */
+border: soli, #000000; /* 边框 */
+border-radius: 4px; /* 圆角 */
+cursor: pointer; /* 鼠标指针样式 */
+font-size: 14px; /* 字体大小 */
+transition: background-color 0.3s; /* 背景色过渡效果 */
+margin-top: 10px; /* 上边距，往下移动按钮 */
 }
 
 /* 悬停效果 */
 #toggle-button-1:hover {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 阴影 *
-    /* background-color: #0056b3; /* 深蓝色 */ */
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 阴影 *
+/* background-color: #0056b3; /* 深蓝色 */ */
 }
 </style>
 
 <script>
 function toggleVisibility1() {
-    var content = document.getElementById('more-content-1');
-    var button = document.getElementById('toggle-button-1');
-    if (content.style.display === 'none') {
-        content.style.display = 'block';
-        button.innerText = 'Show less';
-    } else {
-        content.style.display = 'none';
-        button.innerText = 'Read more';
-    }
-  }
-  </script>
+var content = document.getElementById('more-content-1');
+var button = document.getElementById('toggle-button-1');
+if (content.style.display === 'none') {
+    content.style.display = 'block';
+    button.innerText = 'Show less';
+} else {
+    content.style.display = 'none';
+    button.innerText = 'Read more';
+}
+}
+</script>
+
+
+## Patents
+- ``Chinese Patent`` **A joint imaging system and image enhancement fusion method based on UAV platform**, Zhenlu Shao, **<font color="blue">Rong Deng</font>**, Xiaoxing Zhong, Guofu Zhang, Hui Wang, Tong Yang, Guangchen Qu, Huisong Zhang. Chinese Patent, ZL 202310676370.6.
+- ``Chinese Patent`` **A digital imaging method for three-dimensional temperature field of coal fire and gangue hill fire**, Zhenlu Shao, Deming Wang, Xiaoxing Xiao, Yizhou Li, **<font color="blue">Rong Deng</font>**. Chinese Patent, ZL 202010370173.8.
+- ``Software Copyright`` **Thermal infrared image detail enhancement mass processing software in coal field fire area V1.0**, Zhenlu Shao, Yizhou Li, **<font color="blue">Rong Deng</font>**. Chinese Software Copyright, 2021SR1395461.
+
+
+  

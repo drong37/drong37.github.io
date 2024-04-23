@@ -9,7 +9,7 @@
 
 **[3D thermal mapping of smoldering coal gangue pile fires using airborne thermal infrared data](https://www.sciencedirect.com/science/article/pii/S2214157X23004525)**
 
-Zhenlu Shao*, **<font color="blue">Rong Deng</font>**, Guofu Zhang, Yujiao Li, Xiaofei Tang, Wei Zhang
+Zhenlu Shao*, **<font color="#00A2E8">Rong Deng</font>**, Guofu Zhang, Yujiao Li, Xiaofei Tang, Wei Zhang
 
 **Keywords:**
 - Coal gangue pile

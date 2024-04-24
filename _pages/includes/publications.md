@@ -105,9 +105,9 @@ if (content.style.display === 'none') {
 
 
 ## Patents
-- ``Chinese Patent`` **A joint imaging system and image enhancement fusion method based on UAV platform**, Zhenlu Shao, **<font color="#00A2E8">Rong Deng</font>**, Xiaoxing Zhong, Guofu Zhang, Hui Wang, Tong Yang, Guangchen Qu, Huisong Zhang. Chinese Patent, ZL 202310676370.6.
-- ``Chinese Patent`` **A digital imaging method for three-dimensional temperature field of coal fire and gangue hill fire**, Zhenlu Shao, Deming Wang, Xiaoxing Xiao, Yizhou Li, **<font color="#00A2E8">Rong Deng</font>**. Chinese Patent, ZL 202010370173.8.
-- ``Software Copyright`` **Thermal infrared image detail enhancement mass processing software in coal field fire area V1.0**, Zhenlu Shao, Yizhou Li, **<font color="#00A2E8">Rong Deng</font>**. Chinese Software Copyright, 2021SR1395461.
+- ``Chinese Patent`` **A joint imaging system and image enhancement fusion method based on UAV platform**, Zhenlu Shao, **<font color="#00A2E8">Rong Deng</font>**. Xiaoxing Zhong, Guofu Zhang, Hui Wang, Tong Yang, Guangchen Qu, Huisong Zhang. Chinese Patent, ZL 202310676370.6.
+- ``Chinese Patent`` **A digital imaging method for three-dimensional temperature field of coal fire and gangue hill fire**. Zhenlu Shao, Deming Wang, Xiaoxing Xiao, Yizhou Li, **<font color="#00A2E8">Rong Deng</font>**. Chinese Patent, ZL 202010370173.8.
+- ``Software Copyright`` **Thermal infrared image detail enhancement mass processing software in coal field fire area V1.0**. Zhenlu Shao, Yizhou Li, **<font color="#00A2E8">Rong Deng</font>**. Chinese Software Copyright, 2021SR1395461.
 
 
   

@@ -8,27 +8,53 @@
             <a href="https://drong37.github.io/zh-cn" target="_self">
               <img class="svg" src="/images/cn.svg" width="20pt"> 中文</a>
           </li>
+          <!DOCTYPE html>
           <html>
           <head>
-              <title>Markdown Like Button</title>
+              <meta charset="UTF-8">
+              <title>点赞功能示例</title>
+              <style>
+                  /* 按钮样式 */
+                  .like-button {
+                      padding: 8px 16px;
+                      margin: 10px;
+                      background-color: #007BFF; /* 蓝色背景 */
+                      color: white; /* 白色文字 */
+                      border: none; /* 无边框 */
+                      border-radius: 4px; /* 圆角 */
+                      cursor: pointer; /* 鼠标指针样式 */
+                      font-size: 14px; /* 字体大小 */
+                      transition: box-shadow 0.3s; /* 阴影过渡效果 */
+                  }
+          
+                  /* 悬停时的阴影效果 */
+                  .like-button:hover {
+                      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 阴影 */
+                  }
+              </style>
           </head>
           <body>
-              <button id="likeButton" onclick="likePost()">Like</button>
-              <span id="likeCount">0</span> people liked this.
-           
+              <!-- 点赞按钮 -->
+              <button id="like-button" class="like-button" onclick="toggleLike()">
+                  👍 喜欢 (0)
+              </button>
+          
               <script>
-                  var likeCount = 0;
-           
-                  function likePost() {
-                      // 这里可以添加向服务器发送请求的代码，记录用户的点赞
-                      // 例如使用 AJAX 或 Fetch API 向后端发送请求
-                      // 假设后端返回点赞数
+                  // 初始化点赞数量
+                  let likeCount = 0;
+          
+                  // 切换点赞状态
+                  function toggleLike() {
+                      const button = document.getElementById('like-button');
+          
+                      // 增加点赞数量
                       likeCount++;
-                      updateLikeCount(likeCount);
-                  }
-           
-                  function updateLikeCount(count) {
-                      document.getElementById('likeCount').textContent = count + " people liked this.";
+          
+                      // 更新按钮文本，显示新的点赞数量
+                      button.innerText = `👍 喜欢 (${likeCount})`;
+          
+                      // 可以在这里添加代码，将点赞数据保存到后端或本地存储
+                      // 例如：localStorage.setItem('likeCount', likeCount);
                   }
               </script>
           </body>

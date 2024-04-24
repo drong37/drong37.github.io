@@ -8,6 +8,9 @@
             <a href="https://drong37.github.io/zh-cn" target="_self">
               <img class="svg" src="/images/cn.svg" width="20pt"> 中文</a>
           </li>
+          {% for link in site.data.navigation.main %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
           <!DOCTYPE html>
           <html>
           <head>
@@ -59,9 +62,6 @@
               </script>
           </body>
           </html>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

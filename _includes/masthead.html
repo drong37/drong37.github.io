@@ -8,6 +8,31 @@
             <a href="https://drong37.github.io/zh-cn" target="_self">
               <img class="svg" src="/images/cn.svg" width="20pt"> 中文</a>
           </li>
+          <html>
+          <head>
+              <title>Markdown Like Button</title>
+          </head>
+          <body>
+              <button id="likeButton" onclick="likePost()">Like</button>
+              <span id="likeCount">0</span> people liked this.
+           
+              <script>
+                  var likeCount = 0;
+           
+                  function likePost() {
+                      // 这里可以添加向服务器发送请求的代码，记录用户的点赞
+                      // 例如使用 AJAX 或 Fetch API 向后端发送请求
+                      // 假设后端返回点赞数
+                      likeCount++;
+                      updateLikeCount(likeCount);
+                  }
+           
+                  function updateLikeCount(count) {
+                      document.getElementById('likeCount').textContent = count + " people liked this.";
+                  }
+              </script>
+          </body>
+          </html>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}

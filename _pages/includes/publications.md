@@ -60,7 +60,7 @@ Zhenlu Shao, **<font color="#00A2E8">Rong Deng</font>**, Tao Zhou, Fei Cao, Huah
 
 **[Three-dimensional-imaging thermal surfaces of coal fires based on UAV thermal infrared data](https://www.tandfonline.com/doi/full/10.1080/01431161.2020.1823044)**
 
-Zhenlu Shao, Yizhou Li, **<font color="#00A2E8">Rong Deng</font>**, Deming Wang*, Xiaoxing Zhong*
+Zhenlu Shao, Yizhou Li, **<font color="#00A2E8">Rong Deng</font>**, Deming Wang\*, Xiaoxing Zhong\*
 
 </div>
 </div>

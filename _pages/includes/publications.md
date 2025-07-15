@@ -108,15 +108,15 @@
 
 <ul class="patent-list">
   <li>
-    <p><strong>Chinese Patent:</strong> A joint imaging system and image enhancement fusion method based on UAV platform, ZL202310676370.6.</p>
+    <p><code>Chinese Patent</code> A joint imaging system and image enhancement fusion method based on UAV platform, ZL202310676370.6.</p>
     <p class="authors">Zhenlu Shao, <span class="author-highlight">Rong Deng</span>, Xiaoxing Zhong, Guofu Zhang, Hui Wang, Tong Yang, Guangchen Qu &amp; Huisong Zhang.</p>
   </li>
   <li>
-    <p><strong>Chinese Patent:</strong> A digital imaging method for three-dimensional temperature field of coal fire and gangue hill fire, ZL202010370173.8.</p>
+    <p><code>Chinese Patent</code> A digital imaging method for three-dimensional temperature field of coal fire and gangue hill fire, ZL202010370173.8.</p>
     <p class="authors">Zhenlu Shao, Deming Wang, Xiaoxing Xiao, Yizhou Li &amp; <span class="author-highlight">Rong Deng</span>.</p>
   </li>
   <li>
-    <p><strong>Software Copyright:</strong> Thermal infrared image detail enhancement mass processing software in coal field fire area V1.0, 2021SR1395461.</p>
+    <p><code>Software Copyright</code> Thermal infrared image detail enhancement mass processing software in coal field fire area V1.0, 2021SR1395461.</p>
     <p class="authors">Zhenlu Shao, Yizhou Li &amp; <span class="author-highlight">Rong Deng</span>.</p>
   </li>
 </ul>

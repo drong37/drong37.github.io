@@ -6,10 +6,8 @@
 
   <div class='paper-box'>
     <div class='paper-box-image'>
-      <div>
         <div class="badge">Case Studies in Thermal Engineering, 2023</div>
-        <img src='images/pub4.png' alt="3D thermal mapping publication" width="100%">
-      </div>
+        <img src='/images/pub4.png' alt="3D thermal mapping publication" width="100%">
     </div>
     <div class='paper-box-text'>
       <p><a href="https://www.sciencedirect.com/science/article/pii/S2214157X23004525" target="_blank" rel="noopener noreferrer"><strong>3D thermal mapping of smoldering coal gangue pile fires using airborne thermal infrared data</strong></a></p>
@@ -29,10 +27,8 @@
 
   <div class='paper-box'>
     <div class='paper-box-image'>
-      <div>
         <div class="badge">IEEE Transactions on Geoscience and Remote Sensing, 2022</div>
-        <img src='images/pub3.gif' alt="Constructing 3-D land surface temperature publication" width="100%">
-      </div>
+        <img src='/images/pub3.gif' alt="Constructing 3-D land surface temperature publication" width="100%">
     </div>
     <div class='paper-box-text'>
       <p><a href="https://ieeexplore.ieee.org/abstract/document/9779710" target="_blank" rel="noopener noreferrer"><strong>Constructing 3-D land surface temperature model of local coal fires using UAV thermal images</strong></a></p>
@@ -51,10 +47,8 @@
 
   <div class='paper-box'>
     <div class='paper-box-image'>
-      <div>
         <div class="badge">Pure and Applied Geophysics, 2021</div>
-        <img src='images/pub2.webp' alt="3D localization of coal fires publication" width="100%">
-      </div>
+        <img src='/images/pub2.webp' alt="3D localization of coal fires publication" width="100%">
     </div>
     <div class='paper-box-text'>
       <p><a href="https://link.springer.com/article/10.1007/s00024-021-02883-z" target="_blank" rel="noopener noreferrer"><strong>3D localization of coal fires based on self-potential data: Sandbox experiments</strong></a></p>
@@ -76,7 +70,7 @@
       <div class='paper-box-image'>
         <div>
           <div class="badge">International Journal of Remote Sensing, 2020</div>
-          <img src='images/pub1.jpg' alt="Three-dimensional-imaging thermal surfaces publication" width="100%">
+          <img src='/images/pub1.jpg' alt="Three-dimensional-imaging thermal surfaces publication" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>

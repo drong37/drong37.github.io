@@ -6,7 +6,7 @@
 
   <div class='paper-box'>
     <div class='paper-box-image'>
-        <div class="badge">CSIT, 2023</div>
+        <div class="badge">PSEP, 2025</div>
         <img src='/images/pub/Automatic assessment of fuel load and fire risk via digitized database and intelligent computer vision.jpg' alt="3D thermal mapping publication" width="100%">
     </div>
     <div class='paper-box-text'>
@@ -28,7 +28,7 @@
   <div class='paper-box'>
     <div class='paper-box-image'>
         <div class="badge">CSIT, 2023</div>
-        <img src='/images/pub4.png' alt="3D thermal mapping publication" width="100%">
+        <img src='/images/pub/pub4.png' alt="3D thermal mapping publication" width="100%">
     </div>
     <div class='paper-box-text'>
       <p><a href="https://www.sciencedirect.com/science/article/pii/S2214157X23004525" target="_blank" rel="noopener noreferrer"><strong>3D thermal mapping of smoldering coal gangue pile fires using airborne thermal infrared data</strong></a></p>
@@ -49,7 +49,7 @@
   <div class='paper-box'>
     <div class='paper-box-image'>
         <div class="badge">IEEE TGRS, 2022</div>
-        <img src='/images/pub3.gif' alt="Constructing 3-D land surface temperature publication" width="100%">
+        <img src='/images/pub/pub3.gif' alt="Constructing 3-D land surface temperature publication" width="100%">
     </div>
     <div class='paper-box-text'>
       <p><a href="https://ieeexplore.ieee.org/abstract/document/9779710" target="_blank" rel="noopener noreferrer"><strong>Constructing 3-D land surface temperature model of local coal fires using UAV thermal images</strong></a></p>
@@ -70,7 +70,7 @@
     <div class='paper-box'>
       <div class='paper-box-image'>
           <div class="badge">PAG, 2021</div>
-          <img src='/images/pub2.webp' alt="3D localization of coal fires publication" width="100%">
+          <img src='/images/pub/pub2.webp' alt="3D localization of coal fires publication" width="100%">
       </div>
       <div class='paper-box-text'>
         <p><a href="https://link.springer.com/article/10.1007/s00024-021-02883-z" target="_blank" rel="noopener noreferrer"><strong>3D localization of coal fires based on self-potential data: Sandbox experiments</strong></a></p>
@@ -86,12 +86,12 @@
         </div>
       </div>
     </div>
-    
+
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
           <div class="badge">IJRS, 2020</div>
-          <img src='/images/pub1.jpg' alt="Three-dimensional-imaging thermal surfaces publication" width="100%">
+          <img src='/images/pub/pub1.jpg' alt="Three-dimensional-imaging thermal surfaces publication" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
@@ -134,7 +134,7 @@
   .keywords ul li { margin-bottom: 0.25em; }
   .patent-list { list-style: none; padding-left: 0; }
   .patent-list li { margin-bottom: 1.5em; }
-  .paper-box { display: flex; gap: 20px; margin-bottom: 2em; flex-wrap: wrap; }
+  .paper-box { display: flex; gap: 5px; margin-bottom: 2em; flex-wrap: wrap; }
   .paper-box-image { flex: 0 0 200px; }
   .paper-box-text { flex: 1; min-width: 300px; }
   .badge { font-size: 12px; background-color: #555; color: white; padding: 3px 8px; border-radius: 4px; margin-bottom: 5px; display: inline-block; }

@@ -134,7 +134,7 @@
   .keywords ul li { margin-bottom: 0.25em; }
   .patent-list { list-style: none; padding-left: 0; }
   .patent-list li { margin-bottom: 1.5em; }
-  .paper-box { display: flex; gap: 5px; margin-bottom: 2em; flex-wrap: wrap; }
+  .paper-box { display: flex; flex-wrap: wrap; }
   .paper-box-image { flex: 0 0 200px; }
   .paper-box-text { flex: 1; min-width: 300px; }
   .badge { font-size: 12px; background-color: #555; color: white; padding: 3px 8px; border-radius: 4px; margin-bottom: 5px; display: inline-block; }

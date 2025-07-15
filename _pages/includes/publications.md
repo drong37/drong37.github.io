@@ -10,7 +10,7 @@
         <img src='/images/pub/Automatic assessment of fuel load and fire risk via digitized database and intelligent computer vision.jpg' alt="3D thermal mapping publication" width="100%">
     </div>
     <div class='paper-box-text'>
-      <p><a href="https://www.sciencedirect.com/science/article/pii/S2214157X23004525" target="_blank" rel="noopener noreferrer"><strong>Automatic assessment of fuel load and fire risk via digitized database and intelligent computer vision</strong></a></p>
+      <p><a href="https://doi.org/10.1016/j.psep.2025.107031" target="_blank" rel="noopener noreferrer"><strong>Automatic assessment of fuel load and fire risk via digitized database and intelligent computer vision</strong></a></p>
       <p class="authors">Yifei Ding, <span class="author-highlight">Rong Deng</span>, Yuxin Zhang*, Xinyan Huang*, Negar Elhami-Khorasani, Thomas Gernay</p>
       <div class="keywords">
         <strong>Keywords:</strong>
@@ -134,10 +134,10 @@
   .keywords ul li { margin-bottom: 0.25em; }
   .patent-list { list-style: none; padding-left: 0; }
   .patent-list li { margin-bottom: 1.5em; }
-  .paper-box { display: flex; gap: 10px; margin-bottom: 0.5em; flex-wrap: wrap; }
+  .paper-box { display: flex; gap: 10px; margin-bottom: 0.5em !important;  flex-wrap: wrap; }
   .paper-box-image { flex: 0 0 300px; }
   .paper-box-text { flex: 1; min-width: 300px; }
-  .badge { font-size: 12px; background-color: #555; color: white; padding: 3px 8px; border-radius: 4px; margin-bottom: 5px; display: inline-block; }
+  .badge { font-size: 12px; background-color: #555; color:  #FFFFFF; padding: 3px 8px; border-radius: 4px; margin-bottom: 5px; display: inline-block; }
   .toggle-button { background-color: #FFFFFF; color: #000000; padding: 8px 16px; border: 1px solid #000000; border-radius: 4px; cursor: pointer; font-size: 14px; transition: all 0.3s ease; margin-top: 10px; }
   .toggle-button:hover { box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); }
 </style>

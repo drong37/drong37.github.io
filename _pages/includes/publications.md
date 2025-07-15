@@ -45,30 +45,27 @@
     </div>
   </div>
 
-
-
-  <div id="more-papers" class="collapsible-content is-hidden" markdown="1">
-    
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">Pure and Applied Geophysics, 2021</div>
-          <img src='images/pub2.webp' alt="3D localization of coal fires publication" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text' markdown="1">
-        <a href="https://link.springer.com/article/10.1007/s00024-021-02883-z" target="_blank" rel="noopener noreferrer"><strong>3D localization of coal fires based on self-potential data: Sandbox experiments</strong></a>
-        <p class="authors">Zhenlu Shao, <span class="author-highlight">Rong Deng</span>, Tao Zhou, Fei Cao, Huahai Sun, Long Chen, Yu Yuan & Xiaoxing Zhong*</p>
-        <strong>Keywords:</strong>
-        <ul>
-          <li>Coal fires</li>
-          <li>Self-potential</li>
-          <li>3D inversion</li>
-          <li>Source current density</li>
-        </ul>
+  <div class='paper-box'>
+    <div class='paper-box-image'>
+      <div>
+        <div class="badge">Pure and Applied Geophysics, 2021</div>
+        <img src='images/pub2.webp' alt="3D localization of coal fires publication" width="100%">
       </div>
     </div>
-    
+    <div class='paper-box-text' markdown="1">
+      <a href="https://link.springer.com/article/10.1007/s00024-021-02883-z" target="_blank" rel="noopener noreferrer"><strong>3D localization of coal fires based on self-potential data: Sandbox experiments</strong></a>
+      <p class="authors">Zhenlu Shao, <span class="author-highlight">Rong Deng</span>, Tao Zhou, Fei Cao, Huahai Sun, Long Chen, Yu Yuan & Xiaoxing Zhong*</p>
+      <strong>Keywords:</strong>
+      <ul>
+        <li>Coal fires</li>
+        <li>Self-potential</li>
+        <li>3D inversion</li>
+        <li>Source current density</li>
+      </ul>
+    </div>
+  </div>
+
+  <div id="more-papers" class="collapsible-content is-hidden" markdown="1">
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
@@ -89,9 +86,9 @@
 ## Patents
 
 <ul class="patent-list">
-  <li><code>Chinese Patent</code> A joint imaging system and image enhancement fusion method based on UAV platform, ZL202310676370.6. Zhenlu Shao, <span class="author-highlight">Rong Deng</span>, Xiaoxing Zhong, Guofu Zhang, Hui Wang, Tong Yang, Guangchen Qu & Huisong Zhang.</li>
-  <li><code>Chinese Patent</code> A digital imaging method for three-dimensional temperature field of coal fire and gangue hill fire, ZL202010370173.8. Zhenlu Shao, Deming Wang, Xiaoxing Xiao, Yizhou Li & <span class="author-highlight">Rong Deng</span>.</li>
-  <li><code>Software Copyright</code> Thermal infrared image detail enhancement mass processing software in coal field fire area V1.0, 2021SR1395461. Zhenlu Shao, Yizhou Li & <span class="author-highlight">Rong Deng</span>.</li>
+  <li><code>Chinese Patent</code> A joint imaging system and image enhancement fusion method based on UAV platform, ZL202310676370.6. <br> Zhenlu Shao, <span class="author-highlight">Rong Deng</span>, Xiaoxing Zhong, Guofu Zhang, Hui Wang, Tong Yang, Guangchen Qu & Huisong Zhang.</li>
+  <li><code>Chinese Patent</code> A digital imaging method for three-dimensional temperature field of coal fire and gangue hill fire, ZL202010370173.8. <br> Zhenlu Shao, Deming Wang, Xiaoxing Xiao, Yizhou Li & <span class="author-highlight">Rong Deng</span>.</li>
+  <li><code>Software Copyright</code> Thermal infrared image detail enhancement mass processing software in coal field fire area V1.0, 2021SR1395461. <br> Zhenlu Shao, Yizhou Li & <span class="author-highlight">Rong Deng</span>.</li>
 </ul>
 
 <style>
@@ -99,69 +96,40 @@
     display: none;
   }
 
-  /* 二级标题样式 */
+  /* Styling for h2 Headings */
   h2 {
-    color: #6c757d;
-    padding-bottom: 8px;
-    margin-top: 2em;
-  }
-  
-  /* 刊物信息徽章 */
-  .badge {
-    background-color: #555;
-    color: white;
-    padding: 3px 8px;
-    font-size: 12px;
-    text-align: center;
-    border-radius: 4px;
-    margin-bottom: 5px;
+    color: gray;
+    font-weight: normal; /* To match original rendering */
   }
 
-  /* 论文容器样式 */
-  .paper-box {
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    gap: 15px;
-  }
-
-  .paper-box-image {
-    flex: 0 0 150px; 
-  }
-  
-  .paper-box-text {
-    flex: 1;
-    min-width: 200px;
-  }
-
-  .paper-box-text a {
+  /* General Styling for Publications */
+  .publications-list a {
     text-decoration: none;
-    color: #003366;
+    color: inherit; /* To match original link color */
   }
 
-  .paper-box-text a:hover {
+  .publications-list a:hover {
     text-decoration: underline;
   }
   
   .authors {
-    margin: 5px 0;
+    margin: 1em 0; /* To match original paragraph spacing */
   }
   
-  /* 作者高亮 */
   .author-highlight {
     color: #00A2E8;
-    font-weight: bold;
+    font-weight: normal; /* To match original font rendering */
   }
 
-  .paper-box-text ul {
+  .publications-list ul {
     list-style-type: disc;
-    margin-top: 10px;
+    margin-top: 1em;
+    margin-bottom: 1em;
     margin-left: 20px;
     padding-left: 0;
   }
   
-  /* 专利列表样式 */
+  /* Patent List Styling */
   .patent-list {
     list-style: none;
     padding-left: 0;
@@ -171,12 +139,12 @@
     margin-bottom: 1em;
   }
 
-  /* “阅读更多”按钮样式 */
-  .toggle-button {
+  /* Toggle Button Styling */
+  #toggle-button-1, .toggle-button {
     background-color: #FFFFFF;
     color: #000000;
     padding: 8px 16px;
-    border: 1px solid #000000;
+    border: 1px solid #000000; /* Reverted from 'soli' to 'solid' */
     border-radius: 4px;
     cursor: pointer;
     font-size: 14px;
@@ -184,10 +152,39 @@
     margin-top: 10px;
   }
 
-  .toggle-button:hover {
+  #toggle-button-1:hover, .toggle-button:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    background-color: #f0f0f0;
   }
+
+  /* Original paper-box styles for layout */
+  .paper-box {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    gap: 20px;
+  }
+
+  .paper-box-image {
+    flex: 0 0 200px; /* Adjusted to better match visual */
+  }
+  
+  .paper-box-text {
+    flex: 1;
+    min-width: 300px;
+  }
+  
+  .badge {
+    background-color: #555;
+    color: white;
+    padding: 3px 8px;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    display: inline-block; /* Ensures it behaves like the original */
+  }
+
 </style>
 
 <script>

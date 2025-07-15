@@ -6,12 +6,14 @@
 
   <div class='paper-box'>
     <div class='paper-box-image'>
-      <div class="badge">Case Studies in Thermal Engineering, 2023</div>
-      <img src='images/pub4.png' alt="3D thermal mapping publication" width="100%">
+      <div>
+        <div class="badge">Case Studies in Thermal Engineering, 2023</div>
+        <img src='images/pub4.png' alt="3D thermal mapping publication" width="100%">
+      </div>
     </div>
     <div class='paper-box-text'>
       <p><a href="https://www.sciencedirect.com/science/article/pii/S2214157X23004525" target="_blank" rel="noopener noreferrer"><strong>3D thermal mapping of smoldering coal gangue pile fires using airborne thermal infrared data</strong></a></p>
-      <p class="authors">Zhenlu Shao*, <span class="author-highlight">Rong Deng</span>, Guofu Zhang, Yujiao Li, Xiaofei Tang & Wei Zhang</p>
+      <p class="authors">Zhenlu Shao*, <span class="author-highlight">Rong Deng</span>, Guofu Zhang, Yujiao Li, Xiaofei Tang &amp; Wei Zhang</p>
       <div class="keywords">
         <strong>Keywords:</strong>
         <ul>
@@ -27,12 +29,14 @@
 
   <div class='paper-box'>
     <div class='paper-box-image'>
-      <div class="badge">IEEE Transactions on Geoscience and Remote Sensing, 2022</div>
-      <img src='images/pub3.gif' alt="Constructing 3-D land surface temperature publication" width="100%">
+      <div>
+        <div class="badge">IEEE Transactions on Geoscience and Remote Sensing, 2022</div>
+        <img src='images/pub3.gif' alt="Constructing 3-D land surface temperature publication" width="100%">
+      </div>
     </div>
     <div class='paper-box-text'>
       <p><a href="https://ieeexplore.ieee.org/abstract/document/9779710" target="_blank" rel="noopener noreferrer"><strong>Constructing 3-D land surface temperature model of local coal fires using UAV thermal images</strong></a></p>
-      <p class="authors">Zhenlu Shao*, Yuntao Liang, Fuchao Tian, Shuanglin Song & <span class="author-highlight">Rong Deng</span></p>
+      <p class="authors">Zhenlu Shao*, Yuntao Liang, Fuchao Tian, Shuanglin Song &amp; <span class="author-highlight">Rong Deng</span></p>
       <div class="keywords">
         <strong>Keywords:</strong>
         <ul>
@@ -47,12 +51,14 @@
 
   <div class='paper-box'>
     <div class='paper-box-image'>
-      <div class="badge">Pure and Applied Geophysics, 2021</div>
-      <img src='images/pub2.webp' alt="3D localization of coal fires publication" width="100%">
+      <div>
+        <div class="badge">Pure and Applied Geophysics, 2021</div>
+        <img src='images/pub2.webp' alt="3D localization of coal fires publication" width="100%">
+      </div>
     </div>
     <div class='paper-box-text'>
       <p><a href="https://link.springer.com/article/10.1007/s00024-021-02883-z" target="_blank" rel="noopener noreferrer"><strong>3D localization of coal fires based on self-potential data: Sandbox experiments</strong></a></p>
-      <p class="authors">Zhenlu Shao, <span class="author-highlight">Rong Deng</span>, Tao Zhou, Fei Cao, Huahai Sun, Long Chen, Yu Yuan & Xiaoxing Zhong*</p>
+      <p class="authors">Zhenlu Shao, <span class="author-highlight">Rong Deng</span>, Tao Zhou, Fei Cao, Huahai Sun, Long Chen, Yu Yuan &amp; Xiaoxing Zhong*</p>
       <div class="keywords">
         <strong>Keywords:</strong>
         <ul>
@@ -68,12 +74,14 @@
   <div id="more-papers" class="collapsible-content is-hidden">
     <div class='paper-box'>
       <div class='paper-box-image'>
-        <div class="badge">International Journal of Remote Sensing, 2020</div>
-        <img src='images/pub1.jpg' alt="Three-dimensional-imaging thermal surfaces publication" width="100%">
+        <div>
+          <div class="badge">International Journal of Remote Sensing, 2020</div>
+          <img src='images/pub1.jpg' alt="Three-dimensional-imaging thermal surfaces publication" width="100%">
+        </div>
       </div>
       <div class='paper-box-text'>
         <p><a href="https://www.tandfonline.com/doi/full/10.1080/01431161.2020.1823044" target="_blank" rel="noopener noreferrer"><strong>Three-dimensional-imaging thermal surfaces of coal fires based on UAV thermal infrared data</strong></a></p>
-        <p class="authors">Zhenlu Shao, Yizhou Li, <span class="author-highlight">Rong Deng</span>, Deming Wang* & Xiaoxing Zhong*</p>
+        <p class="authors">Zhenlu Shao, Yizhou Li, <span class="author-highlight">Rong Deng</span>, Deming Wang* &amp; Xiaoxing Zhong*</p>
       </div>
     </div>
   </div>
@@ -85,127 +93,47 @@
 
 <ul class="patent-list">
   <li>
-    <strong>Chinese Patent:</strong> A joint imaging system and image enhancement fusion method based on UAV platform, ZL202310676370.6.
-    <p class="authors">Zhenlu Shao, <span class="author-highlight">Rong Deng</span>, Xiaoxing Zhong, Guofu Zhang, Hui Wang, Tong Yang, Guangchen Qu & Huisong Zhang.</p>
+    <p><strong>Chinese Patent:</strong> A joint imaging system and image enhancement fusion method based on UAV platform, ZL202310676370.6.</p>
+    <p class="authors">Zhenlu Shao, <span class="author-highlight">Rong Deng</span>, Xiaoxing Zhong, Guofu Zhang, Hui Wang, Tong Yang, Guangchen Qu &amp; Huisong Zhang.</p>
   </li>
   <li>
-    <strong>Chinese Patent:</strong> A digital imaging method for three-dimensional temperature field of coal fire and gangue hill fire, ZL202010370173.8.
-    <p class="authors">Zhenlu Shao, Deming Wang, Xiaoxing Xiao, Yizhou Li & <span class="author-highlight">Rong Deng</span>.</p>
+    <p><strong>Chinese Patent:</strong> A digital imaging method for three-dimensional temperature field of coal fire and gangue hill fire, ZL202010370173.8.</p>
+    <p class="authors">Zhenlu Shao, Deming Wang, Xiaoxing Xiao, Yizhou Li &amp; <span class="author-highlight">Rong Deng</span>.</p>
   </li>
   <li>
-    <strong>Software Copyright:</strong> Thermal infrared image detail enhancement mass processing software in coal field fire area V1.0, 2021SR1395461.
-    <p class="authors">Zhenlu Shao, Yizhou Li & <span class="author-highlight">Rong Deng</span>.</p>
+    <p><strong>Software Copyright:</strong> Thermal infrared image detail enhancement mass processing software in coal field fire area V1.0, 2021SR1395461.</p>
+    <p class="authors">Zhenlu Shao, Yizhou Li &amp; <span class="author-highlight">Rong Deng</span>.</p>
   </li>
 </ul>
 
 <style>
-  /* Controls visibility for the "Read more" feature */
-  .is-hidden {
-    display: none;
-  }
-
-  /* Styles for the main H2 headings */
-  h2 {
-    color: gray;
-    font-weight: normal; 
-    margin-top: 2em;
-    margin-bottom: 1em;
-    padding-bottom: 0.3em;
-  }
-
-  /* General styles for publication links and text */
-  .publications-list p, .patent-list p {
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-  }
-  .publications-list a {
-    text-decoration: none;
-    color: inherit;
-  }
-  .publications-list a:hover {
-    text-decoration: underline;
-  }
-  .authors {
-    color: #555; /* A slightly softer color for author names */
-  }
-  .author-highlight {
-    color: #00A2E8;
-  }
-
-  /* Styles for the keywords section */
-  .keywords {
-    margin-top: 1em;
-  }
-  .keywords ul {
-    list-style-type: disc;
-    margin-top: 0.5em;
-    margin-bottom: 1em;
-    padding-left: 20px;
-  }
-  .keywords ul li {
-    margin-bottom: 0.25em;
-  }
-
-  /* Styles for the patent list */
-  .patent-list {
-    list-style: none;
-    padding-left: 0;
-  }
-  .patent-list li {
-    margin-bottom: 1.5em;
-  }
-
-  /* Layout for each paper entry using Flexbox */
-  .paper-box {
-    display: flex;
-    gap: 20px;
-    margin-bottom: 2em;
-  }
-  .paper-box-image {
-    flex: 0 0 200px;
-  }
-  .paper-box-text {
-    flex: 1;
-    min-width: 300px; /* Prevents text from becoming too narrow on smaller screens */
-  }
-
-  /* The small badge above the image */
-  .badge {
-    font-size: 12px;
-    background-color: #555;
-    color: white;
-    padding: 3px 8px;
-    border-radius: 4px;
-    margin-bottom: 5px;
-    display: inline-block;
-  }
-
-  /* The "Read more" button */
-  .toggle-button {
-    background-color: #FFFFFF;
-    color: #000000;
-    padding: 8px 16px;
-    border: 1px solid #000000;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 14px;
-    transition: all 0.3s ease;
-    margin-top: 10px;
-  }
-  .toggle-button:hover {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  }
+  .is-hidden { display: none; }
+  h2 { color: gray; font-weight: normal; margin-top: 2em; margin-bottom: 1em; padding-bottom: 0.3em; }
+  .publications-list p, .patent-list p { margin-top: 0.5em; margin-bottom: 0.5em; }
+  .publications-list a { text-decoration: none; color: inherit; }
+  .publications-list a:hover { text-decoration: underline; }
+  .authors { color: #555; }
+  .author-highlight { color: #00A2E8; }
+  .keywords { margin-top: 1em; }
+  .keywords ul { list-style-type: disc; margin-top: 0.5em; margin-bottom: 1em; padding-left: 20px; }
+  .keywords ul li { margin-bottom: 0.25em; }
+  .patent-list { list-style: none; padding-left: 0; }
+  .patent-list li { margin-bottom: 1.5em; }
+  .paper-box { display: flex; gap: 20px; margin-bottom: 2em; flex-wrap: wrap; }
+  .paper-box-image { flex: 0 0 200px; }
+  .paper-box-text { flex: 1; min-width: 300px; }
+  .badge { font-size: 12px; background-color: #555; color: white; padding: 3px 8px; border-radius: 4px; margin-bottom: 5px; display: inline-block; }
+  .toggle-button { background-color: #FFFFFF; color: #000000; padding: 8px 16px; border: 1px solid #000000; border-radius: 4px; cursor: pointer; font-size: 14px; transition: all 0.3s ease; margin-top: 10px; }
+  .toggle-button:hover { box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); }
 </style>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const toggleButtons = document.querySelectorAll('.toggle-button');
-
   toggleButtons.forEach(button => {
     button.addEventListener('click', function() {
       const targetSelector = this.getAttribute('data-target');
       const content = document.querySelector(targetSelector);
-      
       if (content) {
         content.classList.toggle('is-hidden');
         const isNowHidden = content.classList.contains('is-hidden');

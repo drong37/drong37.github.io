@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Rong Deng"
-description              : "PhD student at the Dept. of Building Environment and Energy Engineering, The Hong Kong Polytechnic University"
+description              : "Department of Building Environment and Energy Engineering, The Hong Kong Polytechnic University"
 repository               : "drong37/drong37.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -16,7 +16,7 @@ baidu_site_verification  :     # get baidu_site_verification from https://ziyuan
 author:
   name             : "Rong Deng"
   avatar           : "images/profile1.png"
-  bio              : "The Hong Kong Polytechnic University (PolyU)"
+  bio              : "Research Centre for Fire Safety Engineering"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
